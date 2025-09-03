@@ -13,6 +13,7 @@ Một công cụ mạnh mẽ và linh hoạt giúp bạn đổi tên hàng loạ
   * **An toàn**: Sử dụng cơ chế đổi tên 2 bước để tránh xung đột và mất file.
   * **Giao diện hiện đại**: Sử dụng `ttkbootstrap` cho giao diện đẹp và thân thiện.
   * **Phản hồi thời gian thực**: Vùng log chi tiết cho bạn biết chính xác file nào đang được xử lý và kết quả ra sao.
+<img width="802" height="682" alt="image" src="https://github.com/user-attachments/assets/0338ea5f-3f1c-472f-859c-dbd7df93e216" />
 
 ## Cách sử dụng 🚀
 
